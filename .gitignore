@@ -44,7 +44,6 @@ dmypy.json
 .DS_Store
 media/
 staticfiles/
-db.sqlite3
 
 # Logs
 logs
@@ -75,7 +74,6 @@ coverage
 *.njsproj
 *.sln
 *.sw?
-shop.db
 
 *.tsbuildinfo
 .vscode
